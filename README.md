@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sainath Murali</h1>
-<h3 align="center">Doctoral researcher in Neuroscience, IIT Bombay | Sussex Neuroscience | Bioengineer |</h3>
+<h3 align="center">Doctoral researcher in Neuroscience, IIT Bombay | Sussex Neuroscience | Bioengineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainathmurali&label=Profile%20views&color=0e75b6&style=flat" alt="sainathmurali" /> </p>
 
