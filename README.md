@@ -21,7 +21,7 @@
       <td valign="top" width="50%">
         <a href="https://github.com/sainathmurali">
           <img 
-            src="https://github-readme-stats-omega-three-94.vercel.app/api?username=sainathmurali&show_icons=true&locale=en" 
+            src="https://github-readme-stats-omega-three-94.vercel.app/api?username=sainathmurali&show_icons=true&locale=en&cache_bust=1" 
             alt="GitHub Stats" 
             width="100%" 
           />
@@ -30,7 +30,7 @@
       <td valign="top" width="50%">
         <a href="https://github.com/sainathmurali">
           <img 
-            src="https://github-readme-stats-omega-three-94.vercel.app/api/top-langs?username=sainathmurali&show_icons=true&locale=en&layout=compact" 
+            src="https://github-readme-stats-omega-three-94.vercel.app/api/top-langs?username=sainathmurali&show_icons=true&locale=en&layout=compact&cache_bust=1" 
             alt="Top Languages" 
             width="100%" 
           />
